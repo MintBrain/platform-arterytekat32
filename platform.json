@@ -12,7 +12,7 @@
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/ArteryTek/platform-arterytekat32.git"
+      "url": "https://github.com/MintBrain/platform-arterytekat32.git"
     },
     "engines": {
         "platformio": "^5"
@@ -33,7 +33,7 @@
         },
         "framework-at32firmlib": {
             "type": "framework",
-            "version": "https://github.com/ArteryTek/framework-at32firmlib.git"
+            "version": "https://github.com/MintBrain/framework-at32firmlib.git"
         },
         "tool-openocd-at32": {
             "type": "uploader",
